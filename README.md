@@ -8,5 +8,5 @@ Simple Vue.js and express.js file upload app
 
 # Run server
 * ```cd backend```
-* ```npm install``
+* ```npm install```
 * ```npm start```
